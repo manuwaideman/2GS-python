@@ -3,7 +3,7 @@
 ## Problema
 O aumento global de 25% em ansiedade e depressão, revelado pela OMS, destaca uma crise de saúde mental. Interrupções nos serviços agravaram a escassez de recursos. A busca online por suporte destaca a urgência de ferramentas acessíveis. A detecção precoce de transtornos mentais é crucial, mas recursos escassos limitam o acesso. A psicóloga Natália Silva destaca a disparidade entre a importância da saúde mental e a falta de recursos, especialmente para aqueles com renda limitada.
 
-## Código em Python - Triagem de Saúde Mental
+## Código em Python
 
 O código em Python apresenta uma aplicação de triagem de saúde mental, interativa e acessível. Os usuários respondem a perguntas sobre tristeza, sono, ansiedade e apetite, com respostas registradas em um arquivo JSON. A solução permite realizar triagens, salvar respostas e visualizar registros anteriores.
 
