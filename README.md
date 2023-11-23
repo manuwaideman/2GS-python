@@ -1,7 +1,7 @@
 # Triagem de Saúde Mental
 
 ## Problema
-O aumento alarmante de 25% na prevalência global de ansiedade e depressão, destacado pela Organização Mundial da Saúde (OMS), revela uma crise de saúde mental. Interrupções nos serviços deixaram lacunas no atendimento, exacerbando a escassez crônica de recursos. A busca online por suporte destaca a necessidade urgente de ferramentas digitais acessíveis. Um estudo da Secretaria de Atenção Primária aponta que a detecção precoce de sinais de transtornos mentais é crucial para prevenir, promover e tratar problemas de saúde mental. Ressalta também a importância de ações preventivas e intervencionistas para melhorar o bem-estar. De acordo com Natália Silva, psicóloga, a escassez global de recursos de saúde mental contrasta com a importância equiparada à alimentação, educação e emprego. A falta de acesso ao cuidado agravada por desafios econômicos ressalta a necessidade crítica de soluções inovadoras e acessíveis, como nosso projeto, que surge como uma proposta para realizar triagens de saúde mental de forma eficiente, proporcionando suporte emocional personalizado.
+O aumento global de 25% em ansiedade e depressão, revelado pela OMS, destaca uma crise de saúde mental. Interrupções nos serviços agravaram a escassez de recursos. A busca online por suporte destaca a urgência de ferramentas acessíveis. A detecção precoce de transtornos mentais é crucial, mas recursos escassos limitam o acesso. A psicóloga Natália Silva destaca a disparidade entre a importância da saúde mental e a falta de recursos, especialmente para aqueles com renda limitada.
 
 ## Código em Python - Triagem de Saúde Mental
 
